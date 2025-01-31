@@ -1,4 +1,4 @@
-# Forever on the Eights
+# Forever on the Eights :sunny: :cloud_with_rain: :tv:
 A nostalgic weather display app with a 90s aesthetic, featuring local weather conditions and background music from the Apple Music API.
 
 ## Description
