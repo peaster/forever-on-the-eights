@@ -16,8 +16,8 @@ To set up this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/90s-weather-jukebox.git
-   cd 90s-weather-jukebox
+   git clone https://github.com/https://github.com/peaster/forever-on-the-eights
+   cd forever-on-the-eights
    ```
 2. Install the required dependencies: 
 ```bash
