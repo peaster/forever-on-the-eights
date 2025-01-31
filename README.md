@@ -86,7 +86,7 @@ This project is licensed under the MIT License. See the LICENSE  file for more d
 - Next.js  for the application framework
      
 
-Roadmap 
+## Roadmap 
 
     Add more weather details (humidity, wind speed, etc.)
     Include a retro-style radar animation
@@ -96,6 +96,6 @@ Roadmap
     Include a "Now Playing" display for the music
      
 
-Contact 
+## Contact 
 
 If you have any questions or suggestions, feel free to reach out to the maintainers at [git@peaster.io] or [@peaster](https://github.com/peaster). 
